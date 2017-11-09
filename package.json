@@ -1,0 +1,22 @@
+{
+  "name": "taskone",
+  "version": "1.0.0",
+  "description": "吴亦凡 王俊凯 王源",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "serve ./public"
+  },
+  "author": "rimi",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.2",
+    "express-handlebars": "^3.0.0",
+    "serve": "^6.2.0",
+    "validator": "^9.0.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-copy": "^1.0.0"
+  }
+}
